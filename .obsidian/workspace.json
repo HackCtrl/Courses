@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "ab28d10f35416aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b2fa7138285fbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2ee7ef537965cac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84b971199f222141",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d3806c3edd34584",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca3e4eb3400ec881",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d0882fc57bd186a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4eca9c0ff60e011c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d0efb32821ace4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa00acaa9e6c644b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c45909723f1dbe7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "0c3386a5d533b9e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "1e1ce1e589079f8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4a7e679b8a12e37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "a2ee7ef537965cac",
+  "lastOpenFiles": [
+    "Основы информационной безопасности/Раздел 1. Основные понятия и принципы безопасности/1.2 Модели информационной безопасности.md",
+    "DevOps/Изображения/Pasted image 20251029223503.png",
+    "DevOps/Изображения",
+    "DevOps/Изображения/Pasted image 20251102111751.png",
+    "DevOps/Изображения/Pasted image 20251102115315.png",
+    "Основы информационной безопасности/Изображения/Pasted image 20251103134539.png",
+    "DevOps/Изображения/Pasted image 20251104103901.png",
+    "DevOps/Изображения/Pasted image 20251104104845.png",
+    "Основы информационной безопасности/Изображения/Pasted image 20251104120541.png",
+    "Основы информационной безопасности/Изображения/Pasted image 20251103134732.png",
+    "Основы информационной безопасности/Раздел 2. Управление рисками/2.3. Управление рисками.md",
+    "Основы информационной безопасности/Изображения/Pasted image 20251020231718.png",
+    "Основы информационной безопасности/Изображения/Pasted image 20251011103016.png",
+    "Основы информационной безопасности/Изображения",
+    "Основы информационной безопасности/Раздел 2. Управление рисками/2.4. Стандартные методики оценки рисков.md",
+    "Курс молодого бойца Cisco Packet Tracer/Изображения",
+    "Курс молодого бойца Cisco Packet Tracer/Без названия.md",
+    "DevOps/02. Операционная система Linux/2. Терминал/1. Знакомство с терминалом.md",
+    "Курс молодого бойца Cisco Packet Tracer/8. EtherChannel.md",
+    "DevOps/02. Операционная система Linux/2. Терминал",
+    "Курс молодого бойца Cisco Packet Tracer/7. STP.md",
+    "Основы информационной безопасности/Раздел 2. Управление рисками/2.2. Ущерб как мера риска.md",
+    "DevOps/02. Операционная система Linux/1. Знакомство с Linux/3. Менеджеры пакетов.md",
+    "DevOps/02. Операционная система Linux/1. Знакомство с Linux/2. Основные дистрибутивы Linux.md",
+    "DevOps/02. Операционная система Linux/1. Знакомство с Linux/1. Основы Linux. История и структура операционной системы.md",
+    "DevOps/01. Введение в профессию/2. Какие задачи решает специалист DevOps.md",
+    "DevOps/01. Введение в профессию/1. Специалист DevOps, что это за специалист и чем он занимается.md",
+    "DevOps/02. Операционная система Linux/1. Знакомство с Linux",
+    "DevOps/02. Операционная система Linux",
+    "Основы информационной безопасности/Раздел 2. Управление рисками/2.1. Анализ уязвимостей и угроз.md",
+    "Специалист DevOps. что это за специалист и чем он занимается",
+    "DevOps/01. Введение в профессию/Спринт 2",
+    "DevOps/Без названия.md",
+    "DevOps/01. Введение в профессию",
+    "DevOps/00. Добро пожаловать",
+    "Курс молодого бойца Cisco Packet Tracer/6. VLAN.md",
+    "Курс молодого бойца Cisco Packet Tracer/5. Основы Cisco IOS.md",
+    "Основы информационной безопасности/Раздел 1. Основные понятия и принципы безопасности/1.3 Уязвимость, угроза, атака, ущерб.md",
+    "Курс молодого бойца Cisco Packet Tracer/4.  Коммутатор.md",
+    "Курс молодого бойца Cisco Packet Tracer/3 . Простейшая сеть.md",
+    "Курс молодого бойца Cisco Packet Tracer/2.  Установка.md",
+    "Курс молодого бойца Cisco Packet Tracer/1 . Введение.md",
+    "Основы информационной безопасности/Раздел 1. Основные понятия и принципы безопасности/1.1 Термины и определения.md",
+    "Бизнес план CyberWhale/Бизнес-план. CyberWhale – Компания по информационной безопасности с ИИ-решениями (модернизированная версия для РФ).md",
+    "Практика.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
