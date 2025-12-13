@@ -1,0 +1,8 @@
+```
+# comment
+    */prov*
+    */*/prov*
+    prov?
+    *.log
+    !some.log
+```
